@@ -7,7 +7,7 @@
 <br>
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="caio-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg%22%3E
+  <img align="center" alt="caio-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
 
 ##
