@@ -1,5 +1,4 @@
-## 💻 Developer Back End JS
-
+## 💻 Developer Back End Python
 <div align="center">
 ⌛ Studying:
 </div>
