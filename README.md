@@ -5,10 +5,7 @@
 <br>
 
 <div style="display: inline_block" align="center">
-  <img align="center" alt="caio-js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg%22%3E
-  <img align="center" alt="caio-ts" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg%22%3E
-  <img align="center" alt="caio-nodejs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg%22%3E
-  <img align="center" alt="caio-reactjs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg%22%3E
+<img align="center" alt="caio-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg%22%3E
 </div>
 
 ##
